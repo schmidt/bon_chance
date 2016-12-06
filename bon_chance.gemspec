@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "Bonne Chance!"
   spec.description   = "Created as an internal joke at movinga."
-  spec.homepage      = "https://www.movinga.de/"
+  spec.homepage      = "https://github.com/schmidt/bon_chance/"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
